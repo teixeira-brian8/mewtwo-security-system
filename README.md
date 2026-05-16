@@ -1,18 +1,49 @@
-## Getting Started
+# Mewtwo Security System
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+> A Java-based system inspired by the Pokémon universe.
 
-## Folder Structure
+The project simulates a security and validation system where the trainer must answer questions and prove themselves worthy of battling Mewtwo, one of the most powerful legendary Pokémon.
 
-The workspace contains two folders by default, where:
+## Objective
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+The main purpose of this project was to strengthen Java fundamentals through practical application and creative problem-solving.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Technologies
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Java
+- Object-Oriented Programming (OOP)
+- Git & GitHub
 
-## Dependency Management
+## Concepts Practiced
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Conditional structures
+- Loops
+- Input validation
+- Code organization
+- Logical thinking
+- User interaction
+- Modularization
+
+## Features
+
+- Trainer validation system
+- Interactive question flow
+- Battle authorization logic
+- Pokémon-inspired experience
+
+## Learning Goals
+
+This project was developed to improve:
+
+- Java syntax understanding
+- Object-oriented programming concepts
+- Software structure organization
+- Problem-solving skills
+- Practical programming experience
+
+## Author
+
+Brian Teixeira
+
+- GitHub: https://github.com/teixeira-brian8
+- LinkedIn: https://www.linkedin.com/in/brian-tfg/
